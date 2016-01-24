@@ -1,0 +1,33 @@
+
+a{
+    font-style: italic;
+}
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    border-bottom: 5px solid;
+    border-top: 5px solid;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+nav{
+    text-align: center;
+}
+
+p{
+    margin-top 0;
+    margin-bottom: 30
+}
+
+strong{
+    font-style: italic;
+}
